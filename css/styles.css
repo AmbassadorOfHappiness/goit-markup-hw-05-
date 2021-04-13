@@ -400,8 +400,8 @@ img {
 /* TEAM */
 
 .team {
-    padding-top: 76px;
-    padding-bottom: 112px;
+    padding-top: 94px;
+    padding-bottom: 94px;
     background-color: var(--grey-background-color);
 }
 
@@ -466,8 +466,8 @@ img {
 /* CLIENTS */
 
 .clients {
-    padding-top: 85px;
-    padding-bottom: 178px;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 
 .clients-list {
